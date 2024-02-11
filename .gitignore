@@ -1,7 +1,0 @@
-*.pyc
-.cache
-.molecule
-pytestdebug.log
-__pycache__/
-.pytest_cache/
-.vscode/
