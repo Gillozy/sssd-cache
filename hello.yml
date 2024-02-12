@@ -1,8 +1,8 @@
 ---
 - name: Hello World!
   hosts: all
- 
+    set_fact:
+    ansible_port: 8442
   tasks:
- 
   - name: Hello World!
     shell: echo "Hi! Tower is working."
